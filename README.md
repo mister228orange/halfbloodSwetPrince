@@ -1,4 +1,4 @@
-# halfbloodSwetPrince letters
+# halfbloodSweetPrince letters
 
 Some code examples for redirect newbies in future.
 Some of programmer's ideas come not instantly, and those code examples, which made it possible, i try to save here, May be somebody found it interest for him, or not
